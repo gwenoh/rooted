@@ -189,14 +189,14 @@ footer{
 	font-weight: bold;
 }
 
-.heading{
+.home{
 	display: grid;
 	grid-template-rows: .50fr 1.50fr;
 	height: 650px;
 	width: 100%;
 }
 
-header{
+.heading{
 	background-color: white;
 }
 
@@ -1051,7 +1051,7 @@ nav{
 		font-size: 83px;
 	}
 
-	.heading{
+	.home{
 		/* extending the grid to include 2nd column */ 
 		grid-template-columns: 1.10fr 0.90fr;
 		
